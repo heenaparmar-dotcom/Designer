@@ -1,0 +1,29 @@
+body{
+    background: #92836d;
+    margin: 0;
+}
+
+#main-div{
+    background:#FFFFFF; 
+    width: 70%;
+    height: 600px;
+    margin-left: 15%;
+}
+
+#name{
+    color: #CBE11E;
+    text-align: center;
+    /* border: solid #000000 5px; */
+    /* margin-top: 10px */
+    padding-top: 25px;
+    font:'serif';
+    font-size: 48px;
+    font-weight: 700;
+}
+hr{
+    width: 90%;
+    margin-left: 5%;
+}
+immg{
+    width: 200px;
+}
